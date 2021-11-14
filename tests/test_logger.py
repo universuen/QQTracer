@@ -1,5 +1,5 @@
 import context
-from QQ_tracer._logger import Logger
+from QQ_tracer.logger import Logger
 
 
 def test_debug():

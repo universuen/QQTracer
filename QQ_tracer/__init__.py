@@ -1,1 +1,1 @@
-from ._core import QQTracer
+from .core import QQTracer

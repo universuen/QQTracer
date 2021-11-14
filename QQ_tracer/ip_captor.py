@@ -2,7 +2,7 @@ import re
 
 from pyshark import LiveCapture
 
-from ._logger import Logger
+from .logger import Logger
 
 
 def _is_private_ip(ip: str):

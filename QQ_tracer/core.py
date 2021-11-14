@@ -1,5 +1,5 @@
-from ._logger import Logger
-from ._ip_captor import IPCaptor
+from .logger import Logger
+from .ip_captor import IPCaptor
 
 
 class QQTracer:
